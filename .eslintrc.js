@@ -12,7 +12,7 @@ module.exports = {
     'plugin:import/warnings',
     'plugin:import/typescript',
     'plugin:jsx-a11y/recommended',
-    'prettier',
+    'prettier/@typescript-eslint',
     'plugin:prettier/recommended',
   ],
   rules: {
